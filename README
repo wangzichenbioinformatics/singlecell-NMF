@@ -1,4 +1,4 @@
-aaNMF Introduction
+NMF Introduction
 NMF (Non-negative matrix factorization) factorizes a non-negative input matrix into non-negative factors. The algorithm has an inherent clustering property and has been gaining attention in various fields especially in biological data analysis.
 
 Brunet et al in their paper demonstrated NMF's superior capability in clustering the leukemia dataset compared to standard clustering algorithms like Hierarchial clustering and Self-organizeing maps.
